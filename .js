@@ -1,4 +1,4 @@
-// in contruction!
+// in contruction!, this note is a info!, this is a script-test, and not a "perfect-script"!
 // use this script for a chat
   let name = prompt("What is your name?");
   alert("Hello, " + name + "!");
